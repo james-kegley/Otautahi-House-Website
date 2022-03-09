@@ -1,0 +1,22 @@
+{
+  "name": "otautahi-house-website",
+  "version": "1.0.0",
+  "description": "A project where I designed a website using Design Thinking methodology",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/james-kegley/Otautahi-House-Website.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/james-kegley/Otautahi-House-Website/issues"
+  },
+  "homepage": "https://github.com/james-kegley/Otautahi-House-Website#readme",
+  "dependencies": {
+    "firebase-tools": "^10.2.2"
+  }
+}
