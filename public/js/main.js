@@ -199,7 +199,7 @@ function getContent(fragmentId){
             <br>
             <div class="main-img-link">
                 <img src="img/icons/rulebook.png" alt=House rules icon">
-                <a href="https://www.ara.ac.nz/siteassets/documents---home/explore-ara/accommodation/otautahi-house-rules.pdf" target="_blank" rel="noopener noreferrer"><b>View House Rules (PDF 0.1MB)</b></a>
+                <a href="https://www.ara.ac.nz/siteassets/documents---home/explore-ara/accommodation/otautahi-house-rules-.pdf" target="_blank" rel="noopener noreferrer"><b>View House Rules (PDF 0.1MB)</b></a>
             </div>
         </div>
         `,
